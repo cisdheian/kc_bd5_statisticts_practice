@@ -1,2 +1,1 @@
-# kc_bd5_statisticts_practice
-Repositorio para la practica de Estadistica y Diseño experimental del Bootcamp Big Data y Machine Learning 5
+# Bootcamp Big Data and Machine Learning 5# Estadística y diseño experimental## Resolucion de la practica:En la carpeta se encuentran dos archivos:- 0-PracticaFinal-ClaudiaSanchez.pdf  donde se obtiene un output del notebook y el resultado de su ejecucion- 0-PracticaFinal-ClaudiaSanchez.ipynb el notebook para ser importado en un entorno jupyter.como requisito adicional se debe contar con una carpeta data con el archivo airbnb.csv dentro 
